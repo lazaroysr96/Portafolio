@@ -25,7 +25,7 @@ export function HeroSection() {
         <div className="relative">
           <div className="absolute inset-0 animate-pulse rounded-full bg-primary/30 blur-3xl" />
           <img
-            src="/developer-portrait.png"
+            src="./developer-portrait.png"
             alt="Tu foto"
             className="relative h-48 w-48 rounded-full border-4 border-primary/50 object-cover shadow-2xl shadow-primary/50"
           />

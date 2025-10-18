@@ -6,7 +6,7 @@ import path from "path"
 // https://vite.dev/config/
 export default defineConfig(({command})=>{
   return {
-  base: command === 'serve' ? '/' : '/portafolio/',
+  base: command === 'serve' ? '/' : '/Portafolio/',
   plugins: [react(), tailwindcss()],
   resolve: {
     alias: {
