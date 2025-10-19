@@ -1,6 +1,6 @@
 # 👋 Bienvenido al perfil de **Lázaro Yunier Salazar Rodríguez**
 
-Soy **Licenciado en Ciencias de la Información** y **Desarrollador Full Stack**, con más de **un año de experiencia en desarrollo web** y **más de tres años de experiencia en gestión documental**.  
+Soy **Licenciado en Contabilidad y Finanzas** y **Desarrollador Full Stack**, con más de **dos año de experiencia en desarrollo web** y **más de tres años de experiencia en gestión documental**.  
 Mi enfoque combina la **organización de la información** con la **tecnología**, creando soluciones que digitalizan procesos y transforman sistemas tradicionales en herramientas modernas, accesibles y útiles.
 
 ---
