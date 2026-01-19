@@ -2,6 +2,14 @@ import { useEffect, useRef, useState } from "react";
 import { Card } from "./ui/card";
 
 const timelineData = [
+	{
+    year: "Noviembre 2025",
+    title: "Scrum Master",
+    company: "Ahythen",
+    description:
+      "Implementación de metodologías ágiles Scrum para la gestión de proyectos de desarrollo de software",
+    type: "work",
+  },
   {
     year: "Agosto 2025",
     title: "Full Stack Developer",

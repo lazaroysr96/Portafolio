@@ -38,7 +38,7 @@ export function HeroSection() {
           <p className="text-pretty font-mono text-xl text-muted-foreground md:text-2xl">Desarrollador Full Stack</p>
           <div className="flex items-center justify-center gap-2 text-sm text-accent">
             <span className="inline-block h-2 w-2 animate-pulse rounded-full bg-accent" />
-            <span>Trabajando para FacturaGPT</span>
+            <span>Disponible para trabajo remoto (20 horas por semana)</span>
           </div>
         </div>
 
